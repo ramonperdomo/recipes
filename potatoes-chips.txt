@@ -1,0 +1,12 @@
+ingredients:
+-3kg of potatoes
+-salt
+
+directions:
+1. clean the potatoes
+2. peel them
+3. cut them horizontally
+4. cut vertically the remaining horizontal-cuts
+5. cook in hot kitchen-oil
+6. when they get a reddish color, take out the chips
+7. eat them :)
